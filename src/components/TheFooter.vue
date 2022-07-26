@@ -1,6 +1,6 @@
 <template>
  <footer class="main-footer">
-    Páxina de xurxo
+    Páxina de David Antelo
   </footer>
 </template>
 <script setup>

@@ -3,7 +3,7 @@
     <h1>
         {{store.state.tituloPrincipal}}
     </h1>
-    <font-awesome-icon spin style="font-size: 4em;color: orange;" :icon="['fa','spinner']"/>
+    <font-awesome-icon spin style="font-size: 4em;color: blueviolet;" :icon="['fa','spinner']"/>
 </div>
 </template>
 
